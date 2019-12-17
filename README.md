@@ -1,6 +1,6 @@
 # Adviento de Código 2019
 
-Esta es una traducción de los puzles publicados en [adventofcode.com/2019](http://was.tl/) por [Eric Wastl](http://was.tl/) con mis soluciones propuestas hechas en Ruby.
+Esta es una traducción de los puzles publicados en [adventofcode.com/2019](http://was.tl/) por [Eric Wastl](http://was.tl/) con mis soluciones desarrolladas con ~~Ruby~~ Python.
 
 ## Index
 * [Día 1 - La Tiranía de la Ecuación del Cohete](day1/puzzle.md)
