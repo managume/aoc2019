@@ -24,7 +24,7 @@ Aparte de las reglas de rango, las siguientes también son ciertas:
 
 El rango de entrada que se proporciona es ```307237-769058```.
 
-## Part 2
+## Parte 2
 
 Un elfo acaba de recordar un detalle importante: los dos dígitos adyacentes coincidentes **no forman parte de un grupo mayor de dígitos adyacentes**.
 
